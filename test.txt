@@ -1,4 +1,0 @@
-Created the file for test
-
-Git push success
-Git pull sucess
